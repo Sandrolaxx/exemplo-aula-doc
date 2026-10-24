@@ -1,0 +1,9 @@
+site_name: Documentação DonaFrost
+site_url: https://sandrolaxx.github.io
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Arquitetura: arquitetura.md
